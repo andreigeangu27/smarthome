@@ -1,1 +1,2 @@
 # smarthome
+Modificari de facut
